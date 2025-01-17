@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2509-minimize-xor](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
