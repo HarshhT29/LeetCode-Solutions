@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0455-assign-cookies](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0952-word-subsets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
