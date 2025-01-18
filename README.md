@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0455-assign-cookies](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0952-word-subsets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0952-word-subsets) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -110,4 +111,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
