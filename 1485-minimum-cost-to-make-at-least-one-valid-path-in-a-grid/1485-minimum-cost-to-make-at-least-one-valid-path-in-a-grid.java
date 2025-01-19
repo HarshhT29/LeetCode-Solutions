@@ -1,88 +1,51 @@
 class Solution {
+    class Node {
+        int row;
+        int col;
+        int cost;
 
-    // Direction vectors: right, left, down, up (matching grid values 1,2,3,4)
-    private final int[][] dirs = new int[][] {
-        { 0, 1 },
-        { 0, -1 },
-        { 1, 0 },
-        { -1, 0 },
-    };
+        Node(int row, int col) {
+            this.row = row;
+            this.col = col;
+        }
+        Node(int row, int col, int cost) {
+            this(row, col);
+            this.cost = cost;
+        }
+    }
+    private int[][] dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
     public int minCost(int[][] grid) {
-        int numRows = grid.length, numCols = grid[0].length, cost = 0;
+        int n = grid.length;
+        int m = grid[0].length;
 
-        // Track minimum cost to reach each cell
-        int[][] minCost = new int[numRows][numCols];
-        for (int row = 0; row < numRows; row++) {
-            Arrays.fill(minCost[row], Integer.MAX_VALUE);
-        }
+        Queue<Node> minHeap = new PriorityQueue<>((a, b) -> a.cost-b.cost);
+        minHeap.offer(new Node(0, 0, 0));
+        boolean[][] visited = new boolean[n][m];
 
-        // Queue for BFS part - stores cells that need cost increment
-        Queue<int[]> queue = new LinkedList<>();
+        while(!minHeap.isEmpty()) {
+            Node curr = minHeap.poll();
+            if(visited[curr.row][curr.col]) {
+                continue;
+            }
+            visited[curr.row][curr.col] = true;
 
-        // Start DFS from origin with cost 0
-        dfs(grid, 0, 0, minCost, cost, queue);
+            if(curr.row==n-1 && curr.col==m-1) {
+                return curr.cost;
+            }
 
-        // BFS part - process cells level by level with increasing cost
-        while (!queue.isEmpty()) {
-            cost++;
-            int levelSize = queue.size();
+            for(int i=0;i<4;i++) {
+                int newRow = curr.row + dir[i][0];
+                int newCol = curr.col + dir[i][1];
 
-            while (levelSize-- > 0) {
-                int[] curr = queue.poll();
-                int row = curr[0], col = curr[1];
-
-                // Try all 4 directions for next level
-                for (int dir = 0; dir < 4; dir++) {
-                    dfs(
-                        grid,
-                        row + dirs[dir][0],
-                        col + dirs[dir][1],
-                        minCost,
-                        cost,
-                        queue
-                    );
+                if(newRow>=n || newRow<0 || newCol>=m || newCol<0 || visited[newRow][newCol]) {
+                    continue;
                 }
+                int newCost = curr.cost + (i+1==grid[curr.row][curr.col]?0:1);
+                Node newNode = new Node(newRow, newCol, newCost);
+                minHeap.offer(newNode);
             }
         }
-
-        return minCost[numRows - 1][numCols - 1];
-    }
-
-    // DFS to explore all reachable cells with current cost
-    private void dfs(
-        int[][] grid,
-        int row,
-        int col,
-        int[][] minCost,
-        int cost,
-        Queue<int[]> queue
-    ) {
-        if (!isUnvisited(minCost, row, col)) return;
-
-        minCost[row][col] = cost;
-        queue.offer(new int[] { row, col });
-
-        // Follow the arrow direction without cost increase
-        int nextDir = grid[row][col] - 1;
-        dfs(
-            grid,
-            row + dirs[nextDir][0],
-            col + dirs[nextDir][1],
-            minCost,
-            cost,
-            queue
-        );
-    }
-
-    // Check if cell is within bounds and unvisited
-    private boolean isUnvisited(int[][] minCost, int row, int col) {
-        return (
-            row >= 0 &&
-            col >= 0 &&
-            row < minCost.length &&
-            col < minCost[0].length &&
-            minCost[row][col] == Integer.MAX_VALUE
-        );
+        return -1;
     }
 }
