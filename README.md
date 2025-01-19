@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,16 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
