@@ -10,7 +10,7 @@ class Solution {
         int[] row = new int[n];
         int[] col = new int[m];
 
-        for(int i=0;i<arr.length;i++) {
+        for(int i=0;i<m*n;i++) {
             int[] loc  = map.get(arr[i]);
             row[loc[0]]++;
             col[loc[1]]++;
