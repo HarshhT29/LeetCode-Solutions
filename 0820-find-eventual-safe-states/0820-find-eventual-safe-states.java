@@ -15,10 +15,6 @@ class Solution {
         return safe;
     }
     private boolean dfs(int[][] graph, int[] visited, int src) {
-        if(visited[src]!=0) {
-            return visited[src]==2; //Safe mark kiya hai
-        }
-
         visited[src]=1;
         for(int node:graph[src]) {
             if(visited[node]==2) {
