@@ -8,7 +8,7 @@ class Solution {
         List<Integer> safe = new ArrayList<>();
 
         for(int i=0;i<n;i++) {
-            if(dfs(graph, visited, i)) {
+            if(visited[i]==2 || dfs(graph, visited, i)) {
                 safe.add(i);
             }
         }
