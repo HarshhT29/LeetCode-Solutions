@@ -1,43 +1,28 @@
 class Solution {
-
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {
-        int[] numsSorted = new int[nums.length];
-        for (int i = 0; i < nums.length; i++) numsSorted[i] = nums[i];
-        Arrays.sort(numsSorted);
+        List<Deque<Integer>> groups = new ArrayList<>();
+        Map<Integer, Integer> mapNumToGrp = new HashMap<>();
 
-        int currGroup = 0;
-        HashMap<Integer, Integer> numToGroup = new HashMap<>();
-        numToGroup.put(numsSorted[0], currGroup);
+        List<Integer> sortedNums = new ArrayList<>(nums.length);
+        for(int num:nums) {
+            sortedNums.add(num);
+        }
+        Collections.sort(sortedNums);
 
-        HashMap<Integer, LinkedList<Integer>> groupToList = new HashMap<>();
-        groupToList.put(
-            currGroup,
-            new LinkedList<Integer>(Arrays.asList(numsSorted[0]))
-        );
-
-        for (int i = 1; i < nums.length; i++) {
-            if (Math.abs(numsSorted[i] - numsSorted[i - 1]) > limit) {
-                // new group
-                currGroup++;
+        for(int sNum:sortedNums) {
+            if(groups.isEmpty() || Math.abs(sNum-groups.get(groups.size()-1).getLast())>limit) {
+                groups.add(new ArrayDeque<>());
             }
-
-            // assign current element to group
-            numToGroup.put(numsSorted[i], currGroup);
-
-            // add element to sorted group list
-            if (!groupToList.containsKey(currGroup)) {
-                groupToList.put(currGroup, new LinkedList<Integer>());
-            }
-            groupToList.get(currGroup).add(numsSorted[i]);
+            groups.get(groups.size()-1).addLast(sNum);
+            mapNumToGrp.put(sNum, groups.size()-1);
         }
 
-        // iterate through input and overwrite each element with the next element in its corresponding group
-        for (int i = 0; i < nums.length; i++) {
-            int num = nums[i];
-            int group = numToGroup.get(num);
-            nums[i] = groupToList.get(group).pop();
+        int[] res = new int[nums.length];
+        for(int i=0;i<nums.length;i++) {
+            int grpIndex = mapNumToGrp.get(nums[i]);
+            res[i] = groups.get(grpIndex).removeFirst();
         }
 
-        return nums;
+        return res;
     }
 }
