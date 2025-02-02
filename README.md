@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
