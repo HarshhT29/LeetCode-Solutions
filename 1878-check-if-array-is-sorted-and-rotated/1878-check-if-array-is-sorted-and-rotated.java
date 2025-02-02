@@ -5,6 +5,9 @@ class Solution {
             if(nums[i]<nums[i-1]) {
                 cnt++;
             }
+            if(cnt>1) {
+                return false;
+            }
         }
         if(nums[0]<nums[nums.length-1]) {
             cnt++;
