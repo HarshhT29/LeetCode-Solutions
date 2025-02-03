@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0407-trapping-rain-water-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
