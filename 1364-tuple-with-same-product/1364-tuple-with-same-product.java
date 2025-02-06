@@ -1,3 +1,5 @@
+//Edi code have to try!!
+
 class Solution {
 
     public int tupleSameProduct(int[] nums) {
