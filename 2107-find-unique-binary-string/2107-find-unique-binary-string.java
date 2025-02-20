@@ -13,7 +13,6 @@ class Solution {
     }
     private void helper(String bin, int n) {
         if(n==0) {
-            // System.out.println(bin);
             set.add(bin);
             return ;
         }
