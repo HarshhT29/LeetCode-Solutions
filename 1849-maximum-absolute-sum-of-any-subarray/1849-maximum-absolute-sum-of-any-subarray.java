@@ -12,8 +12,7 @@ class Solution {
                 if(currSum>0) {
                     currSum = 0;
                 }
-            }
-            if(minMax.equals("max")) {
+            } else {
                 limit = Math.max(limit, currSum);
                 if(currSum<0) {
                     currSum = 0;
