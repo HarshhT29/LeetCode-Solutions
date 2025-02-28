@@ -3,6 +3,7 @@ SELECT
     email
 FROM
     Person
-GROUP BY email
+GROUP BY 
+    email
 HAVING
     COUNT(email)>1;
