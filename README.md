@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1258-article-views-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1258-article-views-i) |
+## Enumeration
+|  |
+| ------- |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
