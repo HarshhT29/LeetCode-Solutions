@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2107-find-unique-binary-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
