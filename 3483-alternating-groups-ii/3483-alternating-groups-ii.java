@@ -1,49 +1,19 @@
-// will solve
-// class Solution {
-//     public int numberOfAlternatingGroups(int[] colors, int k) {
-        
-//     }
-// }
-
-
-public class Solution {
-
+class Solution {
     public int numberOfAlternatingGroups(int[] colors, int k) {
-        int[] extendedColors = new int[colors.length + k - 1];
-        // Extend the array to handle circular sequences
-        for (int i = 0; i < colors.length; i++) {
-            extendedColors[i] = colors[i];
-        }
-        for (int i = 0; i < k - 1; i++) {
-            extendedColors[colors.length + i] = colors[i];
-        }
+        int n = colors.length + k-1;
+        int i=0,j=i+1;
+        int cnt = 0;
 
-        int length = extendedColors.length;
-        int result = 0;
-        // Initialize the bounds of the sliding window
-        int left = 0;
-        int right = 1;
-
-        while (right < length) {
-            // Check if the current color is the same as the last one
-            if (extendedColors[right] == extendedColors[right - 1]) {
-                // Pattern breaks, reset window from the current position
-                left = right;
-                right++;
-                continue;
+        while(i<colors.length) {
+            j=i+1;
+            while(j<n && (colors[j%colors.length] != colors[(j-1)%colors.length])) {
+                j++;
             }
-
-            // Expand the window to the right
-            right++;
-
-            // Skip counting sequence if its length is less than k
-            if (right - left < k) continue;
-
-            // Record a valid sequence and shrink window from the left to search for more
-            result++;
-            left++;
+            if(j-i>=k) {
+                cnt += j-i-k+1;
+            }
+            i = j;
         }
-
-        return result;
+        return cnt;
     }
 }
