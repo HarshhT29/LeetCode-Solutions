@@ -1,85 +1,57 @@
 class Solution {
-
     public long countOfSubstrings(String word, int k) {
-        long numValidSubstrings = 0;
-        int start = 0;
-        int end = 0;
-        // keep track of counts of vowels and consonants
-        HashMap<Character, Integer> vowelCount = new HashMap<>();
-        int consonantCount = 0;
+        int[] nextCon = getNextConsonant(word.toCharArray());
+        Map<Character, Integer> map = new HashMap<>();
+        int n = word.length();
+        int i=0, j=0;
+        long cnt = 0, con=0;
 
-        // compute index of next consonant for all indices
-        int[] nextConsonant = new int[word.length()];
-        int nextConsonantIndex = word.length();
-        for (int i = word.length() - 1; i >= 0; i--) {
-            nextConsonant[i] = nextConsonantIndex;
-            if (!isVowel(word.charAt(i))) {
-                nextConsonantIndex = i;
-            }
-        }
-
-        // start sliding window
-        while (end < word.length()) {
-            // insert new letter
-            char newLetter = word.charAt(end);
-
-            // update counts
-            if (isVowel(newLetter)) {
-                vowelCount.put(
-                    newLetter,
-                    vowelCount.getOrDefault(newLetter, 0) + 1
-                );
+        while(j<n) {
+            if(!isVowel(word.charAt(j))) {
+                con++;
             } else {
-                consonantCount++;
+                map.put(word.charAt(j), map.getOrDefault(word.charAt(j), 0)+1);
             }
-
-            // shrink window if too many consonants in our window
-            while (consonantCount > k) {
-                char startLetter = word.charAt(start);
-                if (isVowel(startLetter)) {
-                    vowelCount.put(
-                        startLetter,
-                        vowelCount.get(startLetter) - 1
-                    );
-                    if (vowelCount.get(startLetter) == 0) {
-                        vowelCount.remove(startLetter);
-                    }
+            while(con>k) {
+                if(!isVowel(word.charAt(i))) {
+                    con--;
                 } else {
-                    consonantCount--;
-                }
-                start++;
-            }
-
-            // while we have a valid window, try to shrink it
-            while (
-                start < word.length() &&
-                vowelCount.keySet().size() == 5 &&
-                consonantCount == k
-            ) {
-                // count the current valid substring, as well as valid substrings produced by appending more vowels
-                numValidSubstrings += nextConsonant[end] - end;
-                char startLetter = word.charAt(start);
-                if (isVowel(startLetter)) {
-                    vowelCount.put(
-                        startLetter,
-                        vowelCount.get(startLetter) - 1
-                    );
-                    if (vowelCount.get(startLetter) == 0) {
-                        vowelCount.remove(startLetter);
+                    map.put(word.charAt(i), map.get(word.charAt(i))-1);
+                    if(map.get(word.charAt(i))==0) {
+                        map.remove(word.charAt(i));
                     }
-                } else {
-                    consonantCount--;
                 }
-
-                start++;
+                i++;
             }
-            end++;
+            while(i<n && map.size()==5 && con==k) {
+                cnt = cnt + nextCon[j]-j;
+                if(!isVowel(word.charAt(i))) {
+                    con--;
+                } else {
+                    map.put(word.charAt(i), map.get(word.charAt(i))-1);
+                    if(map.get(word.charAt(i))==0) {
+                        map.remove(word.charAt(i));
+                    }
+                }
+                i++;
+            }
+            j++;
         }
-
-        return numValidSubstrings;
+        return cnt;
     }
-
-    private boolean isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
+    private int[] getNextConsonant(char[] arr) {
+        int[] nums = new int[arr.length];
+        nums[nums.length-1] = nums.length;
+        for(int i=nums.length-2;i>=0;i--) {
+            if(!isVowel(arr[i+1])) {
+                nums[i] = i+1;
+            } else {
+                nums[i] = nums[i+1];
+            }
+        }
+        return nums;
+    }
+    private boolean isVowel(char ch) {
+        return ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u';
     }
 }
