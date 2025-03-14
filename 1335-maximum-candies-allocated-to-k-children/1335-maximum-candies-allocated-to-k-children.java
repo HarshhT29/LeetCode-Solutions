@@ -1,6 +1,5 @@
 class Solution {
     public int maximumCandies(int[] candies, long k) {
-        // long sum = 0L;
         int start = 1;
         int end = 0;
         for(int candy:candies) {
