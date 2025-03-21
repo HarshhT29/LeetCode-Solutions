@@ -12,7 +12,6 @@ class Solution {
         }
 
         for(int i=0;i<recipes.length;i++) {
-            // List<String> ingredient = ;
             for(String ingredient:ingredients.get(i)) {
                 if(!set.contains(ingredient)) {
                     indegree.put(recipes[i], indegree.get(recipes[i])+1);
@@ -46,15 +45,13 @@ class Solution {
         return ans;
     }
     private void printGraph(Map<String, List<String>> adjList, Map<String, Integer> indegree) {
-    System.out.println("Adjacency List:");
-    for (Map.Entry<String, List<String>> entry : adjList.entrySet()) {
-        System.out.println(entry.getKey() + " -> " + entry.getValue());
+        System.out.println("Adjacency List:");
+        for (Map.Entry<String, List<String>> entry : adjList.entrySet()) {
+            System.out.println(entry.getKey() + " -> " + entry.getValue());
+        }
+        System.out.println("\nIn-degree Map:");
+        for (Map.Entry<String, Integer> entry : indegree.entrySet()) {
+            System.out.println(entry.getKey() + " -> " + entry.getValue());
+        }
     }
-
-    System.out.println("\nIn-degree Map:");
-    for (Map.Entry<String, Integer> entry : indegree.entrySet()) {
-        System.out.println(entry.getKey() + " -> " + entry.getValue());
-    }
-}
-
 }
