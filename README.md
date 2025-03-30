@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0768-partition-labels](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1502-construct-k-palindrome-strings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0768-partition-labels](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0768-partition-labels](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0952-word-subsets) |
