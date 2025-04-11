@@ -2,7 +2,6 @@ class Solution {
     public int countSymmetricIntegers(int low, int high) {
         int cnt=0;
         for(int i=low;i<=high;i++) {
-            // System.out.println(i);
             if(helper(i)) {
                 cnt++;
             }
@@ -17,9 +16,6 @@ class Solution {
         }
         String p1 = s.substring(0, (n/2));
         String p2 = s.substring((n/2), n);
-        // System.out.println(p1);
-        // System.out.println(p2);
-        // System.out.println();
         return sum(p1)==sum(p2);
     }
     private int sum(String s) {
