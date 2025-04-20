@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0797-rabbits-in-forest](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0368-largest-divisible-subset](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
