@@ -12,3 +12,11 @@ class Solution {
         return rabbits;
     }
 }
+
+/*
+NOTE::-->
+Each answers[i] means the rabbit sees answers[i] others of the same color, so total in its group = answers[i] + 1.
+Count how many times each answers[i] appears.
+For each unique answers[i], divide the count into groups of (answers[i] + 1).
+Total rabbits = groups * (answers[i] + 1)
+*/
