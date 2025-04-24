@@ -7,7 +7,7 @@ class Solution {
         int maxScore = sum;
         int i=k-1, j=cardPoints.length-1;
         while(i>=0) {
-            sum += cardPoints[j--]-cardPoints[i--];
+            sum = sum - cardPoints[i--] + cardPoints[j--];
             maxScore = Math.max(maxScore, sum);
         }
         return maxScore;
