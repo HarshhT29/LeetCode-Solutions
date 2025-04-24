@@ -9,7 +9,7 @@ class Solution {
         int complete=0;
         while(j<nums.length) {
             map.put(nums[j], map.getOrDefault(nums[j], 0)+1);
-            while(map.size()==distinct.size()) {
+            while(i<nums.length && map.size()==distinct.size()) {
                 complete+=(nums.length-j);
                 map.put(nums[i], map.get(nums[i])-1);
                 if(map.get(nums[i])==0) {
