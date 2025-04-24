@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0979-di-string-match) |
+| [1034-subarrays-with-k-different-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0952-word-subsets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1034-subarrays-with-k-different-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1034-subarrays-with-k-different-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
