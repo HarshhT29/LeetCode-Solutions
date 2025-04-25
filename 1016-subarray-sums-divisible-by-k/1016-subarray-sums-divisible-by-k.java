@@ -5,7 +5,7 @@ class Solution {
         int res = 0;
         for(int num:nums) {
             sum+=num;
-            int rem = ((sum%k)+k)%k;
+            int rem = ((sum%k)+k)%k; //(sum%k)+k -ve ko handle karne ke liye hai
             if(rem==0) {
                 res++;
             }
