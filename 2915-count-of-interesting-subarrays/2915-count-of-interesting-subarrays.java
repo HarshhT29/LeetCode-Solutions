@@ -1,50 +1,23 @@
-// class Solution {
-//     public long countInterestingSubarrays(List<Integer> nums, int modulo, int k) {
-//         int i=0,j=0;
-//         long cnt = 0L;
-//         long res = 0L;
-
-//         while(j<nums.size()) {
-//             if(nums.get(j)%modulo==k) {
-//                 cnt++;
-//                 if(cnt%modulo==k) {
-//                     res++;
-//                 }
-//             }
-//             // while(cnt>1 && i<nums.size()) {
-//             //     if(nums.get(i)%modulo==k) {
-//             //         cnt--;
-//             //         if(cnt%modulo==k) {
-//             //             res++;
-//             //         }
-//             //     }
-//             //     i++;
-//             // }
-//             if(cnt%modulo==k) {
-//                 res+=1;
-//             }
-//             j++;
-//         }
-//         return res;
-//     }
-// }
-
 class Solution {
-
-    public long countInterestingSubarrays(
-        List<Integer> nums,
-        int modulo,
-        int k
-    ) {
-        int n = nums.size();
-        HashMap<Integer, Integer> cnt = new HashMap<>();
-        long res = 0;
-        int prefix = 0;
-        cnt.put(0, 1);
-        for (int i = 0; i < n; i++) {
-            prefix += nums.get(i) % modulo == k ? 1 : 0;
-            res += cnt.getOrDefault((prefix - k + modulo) % modulo, 0);
-            cnt.put(prefix % modulo, cnt.getOrDefault(prefix % modulo, 0) + 1);
+    public long countInterestingSubarrays(List<Integer> nums, int modulo, int k) {
+        int[] cnt = new int[nums.size()];
+        for(int i=0;i<cnt.length;i++) {
+            cnt[i] = (nums.get(i) % modulo)==k?1:0;
+        }
+        Map<Long, Long> map = new HashMap<>();
+        long sum = 0L;
+        long res = 0L;
+        for(int c:cnt) {
+            sum+=c;
+            long r1 = sum % modulo;
+            long r2 = (r1 - k + modulo) % modulo;
+            if(r2==0) {
+                res++;
+            }
+            if(map.containsKey(r2)) {
+                res+=map.get(r2);
+            }
+            map.put(r1, map.getOrDefault(r1, 0L)+1L);
         }
         return res;
     }
