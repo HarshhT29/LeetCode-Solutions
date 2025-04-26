@@ -9,15 +9,15 @@ class Solution {
         long res = 0L;
         for(int c:cnt) {
             sum+=c;
-            long r1 = sum % modulo;
-            long r2 = (r1 - k + modulo) % modulo;
-            if(r2==0) {
+            long sRem = sum % modulo;
+            long rem = (sRem - k + modulo) % modulo;
+            if(rem==0) {
                 res++;
             }
-            if(map.containsKey(r2)) {
-                res+=map.get(r2);
+            if(map.containsKey(rem)) {
+                res+=map.get(rem);
             }
-            map.put(r1, map.getOrDefault(r1, 0L)+1L);
+            map.put(sRem, map.getOrDefault(sRem, 0L)+1L);
         }
         return res;
     }
