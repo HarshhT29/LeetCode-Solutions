@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
