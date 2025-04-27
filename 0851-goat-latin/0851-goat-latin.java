@@ -7,8 +7,7 @@ class Solution {
             if(isVowel(s.charAt(0))) {
                 str.append(s);
             } else{
-                int n = s.length();
-                str.append(s.substring(1, n));
+                str.append(s.substring(1));
                 str.append(s.charAt(0));
             }
             str.append("ma");
