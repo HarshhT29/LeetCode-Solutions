@@ -13,11 +13,7 @@ class Solution {
             maxHeap.offer(1L*x);
             sum+=x;
         }
-
-        if(sum==target.length) {
-            return true;
-        }
-        
+    
         while(!maxHeap.isEmpty()) {
             long curr = maxHeap.poll();
             long diff = (sum - curr);
@@ -25,7 +21,7 @@ class Solution {
                 return true;
             }
 
-            long val = curr%diff;
+            long val = curr % diff;
             if(val==0 || val==curr) {
                 return false;
             }
