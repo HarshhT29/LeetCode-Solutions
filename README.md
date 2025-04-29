@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1479-construct-target-array-with-multiple-sums](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [1479-construct-target-array-with-multiple-sums](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
