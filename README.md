@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0909-stone-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
