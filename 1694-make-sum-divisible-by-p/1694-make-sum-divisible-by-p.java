@@ -8,8 +8,10 @@ class Solution {
         if(target==0) {
             return 0;
         }
+
         int res = nums.length;
         long sum = 0L;
+
         for(int i=0;i<nums.length;i++) {
             sum=(sum+nums[i])%p;
             long rem = (sum+p-target)%p;
@@ -21,6 +23,7 @@ class Solution {
             }
             map.put(sum, i);
         }
+        
         return res!=nums.length?res:-1;
     }
 }
