@@ -20,25 +20,25 @@ class Solution {
     }
     
     private boolean canAssignKtasks(int k, int[] tasks, int[] workers, int pills, int strength) {
-        if (k == 0) return true;
-        
+        if(k==0) {
+            return true;
+        }
         Deque<Integer> deque = new ArrayDeque<>();
         int workerIndex = workers.length - 1;
-        
-        for (int i = k - 1; i >= 0; i--) {
-            while (workerIndex >= workers.length - k && workers[workerIndex] + strength >= tasks[i]) {
+        for(int i=k-1;i>=0;i--) {
+            while(workerIndex >= workers.length - k && workers[workerIndex] + strength >= tasks[i]) {
                 deque.addFirst(workers[workerIndex]);
                 workerIndex--;
             }
             
-            if (deque.isEmpty()) {
+            if(deque.isEmpty()) {
                 return false;
             }
             
-            if (deque.getLast() >= tasks[i]) {
+            if(deque.getLast() >= tasks[i]) {
                 deque.removeLast();
             } else {
-                if (pills<=0) {
+                if(pills<=0) {
                     return false;
                 }
                 pills--;
