@@ -5,20 +5,22 @@ class Solution {
         for(int num:nums) {
             target=(target+num)%p;
         }
-        if(target%p==0) {
+        if(target==0) {
             return 0;
         }
-        int res = Integer.MAX_VALUE;
+        int res = nums.length;
         long sum = 0L;
         for(int i=0;i<nums.length;i++) {
             sum=(sum+nums[i])%p;
             long rem = (sum+p-target)%p;
-
+            if(rem==0) {
+                res = Math.min(res, i+1);
+            }
             if(map.containsKey(rem)) {
                 res = Math.min(res, i-map.get(rem));
             }
-            map.put(sum%p, i);
+            map.put(sum, i);
         }
-        return res!=Integer.MAX_VALUE?res:-1;
+        return res!=nums.length?res:-1;
     }
 }
