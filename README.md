@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1580-shuffle-the-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
