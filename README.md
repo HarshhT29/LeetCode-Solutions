@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2881-split-strings-by-separator](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2881-split-strings-by-separator](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3447-clear-digits) |
