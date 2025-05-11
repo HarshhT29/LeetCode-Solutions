@@ -14,7 +14,7 @@ WHERE
         SELECT 
             MAX(salary)
         FROM
-            Employee
+            Employee e1
         WHERE
-            departmentId = E.departmentId
+            e1.departmentId = E.departmentId
     );
