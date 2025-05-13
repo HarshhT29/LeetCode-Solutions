@@ -21,7 +21,7 @@ class Solution {
         }
 
         long result = 0;
-        for (long count:freq) {
+        for(long count:freq) {
             result = (result+count) % MOD;
         }
         return (int)result;
