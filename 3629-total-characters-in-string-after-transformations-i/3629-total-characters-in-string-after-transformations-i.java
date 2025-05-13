@@ -19,10 +19,10 @@ class Solution {
             freq = nextFreq;
         }
 
-        long result = 0L;
+        long res = 0L;
         for(long count:freq) {
-            result = (result+count)%MOD;
+            res = (res+count)%MOD;
         }
-        return (int)result;
+        return (int)res;
     }
 }
