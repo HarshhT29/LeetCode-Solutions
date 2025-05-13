@@ -1,5 +1,5 @@
 class Solution {
-    private final int MOD = 1_000_000_007;
+    private final int MOD = 1000000007;
 
     public int lengthAfterTransformations(String s, int t) {
         long[] freq = new long[26];
