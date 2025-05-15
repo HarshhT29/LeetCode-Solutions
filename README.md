@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0851-goat-latin](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0851-goat-latin) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0368-largest-divisible-subset](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
@@ -749,4 +754,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0909-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
