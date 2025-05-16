@@ -43,6 +43,7 @@ class Solution {
         }
         return result;
     }
+
     private void precomputeHD(String[] words, int[][] distance) {
         for(int i=0;i<words.length;i++) {
             for(int j=i+1;j<words.length;j++) {
@@ -53,7 +54,6 @@ class Solution {
             }
         }
     }
-
     private int getHammingDistance(String a, String b) {
         int dis = 0;
         for(int i=0;i<a.length();i++) {
