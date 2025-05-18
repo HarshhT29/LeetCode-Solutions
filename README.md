@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1258-article-views-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1258-article-views-i) |
+| [1837-daily-leads-and-partners](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1837-daily-leads-and-partners) |
 ## Enumeration
 |  |
 | ------- |
