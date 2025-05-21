@@ -22,6 +22,5 @@ class Solution {
                 matrix[i][col] = 0;
             }
         }
-
     }
 }
