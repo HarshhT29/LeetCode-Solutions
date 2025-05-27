@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1552-build-an-array-with-stack-operations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1552-build-an-array-with-stack-operations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1806-count-of-matches-in-tournament](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
