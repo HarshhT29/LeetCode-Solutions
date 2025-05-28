@@ -8,7 +8,6 @@ class Solution {
             graph1.computeIfAbsent(edge[0], e -> new ArrayList<>()).add(edge[1]);
             graph1.computeIfAbsent(edge[1], e -> new ArrayList<>()).add(edge[0]);
         }
-
         Map<Integer, List<Integer>> graph2 = new HashMap<>();
         for(int[] edge:edges2) {
             graph2.computeIfAbsent(edge[0], e -> new ArrayList<>()).add(edge[1]);
