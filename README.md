@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
 | ------- |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
 | ------- |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
