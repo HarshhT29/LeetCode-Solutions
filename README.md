@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2998-count-symmetric-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3199-distribute-candies-among-children-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Search Tree
 |  |
