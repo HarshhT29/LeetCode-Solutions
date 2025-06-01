@@ -8,3 +8,7 @@ class Solution {
         return true;
     }
 }
+/*
+Kash contest mei maan ki sunnke try kar leta
+ye solution
+ */
