@@ -8,7 +8,7 @@ class Solution {
         for(int i=0;i<mat.length;i++) {
             for(int j=0;j<mat[0].length;j++) {
                 if(mat[i][j]==0) {
-                    q.offer(new int[]{i, j, 0});
+                    q.offer(new int[]{i, j});
                     distance[i][j] = 0;
                 }
             }
@@ -24,7 +24,7 @@ class Solution {
 
                     if(newR>=0 && newC>=0 && newR<mat.length && newC<mat[0].length && distance[newR][newC]==-1) {
                         distance[newR][newC] = distance[curr[0]][curr[1]]+1;
-                        q.offer(new int[]{newR, newC, distance[newR][newC]});
+                        q.offer(new int[]{newR, newC});
                     }
                 }
             }
