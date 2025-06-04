@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2881-split-strings-by-separator](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3463-alternating-groups-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
