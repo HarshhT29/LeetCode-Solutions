@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3707-find-the-most-common-response](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Geometry
 |  |
 | ------- |
