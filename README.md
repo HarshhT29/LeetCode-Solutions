@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0768-partition-labels) |
