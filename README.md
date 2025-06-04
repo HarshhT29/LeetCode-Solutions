@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1287-distance-between-bus-stops](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
