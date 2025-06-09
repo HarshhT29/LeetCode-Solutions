@@ -9,7 +9,7 @@ class Solution {
                 k -= steps;
             } else {
                 curr *= 10;
-                k -= 1;
+                k--;
             }
         }
         return curr;
