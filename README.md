@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
