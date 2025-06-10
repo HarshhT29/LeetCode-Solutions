@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0542-01-matrix) |
