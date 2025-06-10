@@ -5,7 +5,7 @@ class Solution {
             set.add(num);
         }
         int max = 0;
-        for(int num:nums) {
+        for(int num:set) {
             if(!set.contains(num-1)) {
                 int next = num;
                 while(set.contains(next)) {
