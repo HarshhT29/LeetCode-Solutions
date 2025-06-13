@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2730-maximum-or](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2730-maximum-or) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2730-maximum-or](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2730-maximum-or) |
 | [3001-apply-operations-to-maximize-score](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-zero-array-transformation-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
