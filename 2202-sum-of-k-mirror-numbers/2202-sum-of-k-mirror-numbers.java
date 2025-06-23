@@ -1,3 +1,4 @@
+//\U0001f602\U0001f602\U0001f602
 class Solution {
 
     public long kMirror(int k, int n) {
