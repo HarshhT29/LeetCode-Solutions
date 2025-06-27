@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -869,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
