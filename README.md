@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0979-di-string-match) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1306-minimum-absolute-difference](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1503-reducing-dishes](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1503-reducing-dishes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
