@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
