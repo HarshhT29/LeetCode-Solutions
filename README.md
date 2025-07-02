@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0851-goat-latin](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0851-goat-latin) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
