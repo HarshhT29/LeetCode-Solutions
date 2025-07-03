@@ -1,12 +1,10 @@
 class Solution {
-    private Map<Character, Character> map;
+    private char[] map = {
+        'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k',
+        'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
+        'v', 'w', 'x', 'y', 'z', 'a'
+    };
     public char kthCharacter(int k) {
-        map = new HashMap<>();
-        for(int i=0;i<26;i++) {
-            char key = (char)(i+'a');
-            char value = i!=25?((char)('a'+i+1)):'a';
-            map.put(key, value);
-        }
         return generate("a", k);
     }
     private char generate(String s, int k) {
@@ -15,7 +13,7 @@ class Solution {
         }
         StringBuilder ans = new StringBuilder(s);
         for(char ch:s.toCharArray()) {
-            ans.append(map.get(ch));
+            ans.append(map[ch-'a']);
             if(ans.length()>=k) {
                 return ans.charAt(k-1);
             }
