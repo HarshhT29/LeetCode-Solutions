@@ -17,7 +17,7 @@ class Solution {
         for(char ch:s.toCharArray()) {
             ans.append(map.get(ch));
             if(ans.length()>=k) {
-                break;
+                return ans.charAt(k-1);
             }
         }
         return generate(ans.toString(), k);
