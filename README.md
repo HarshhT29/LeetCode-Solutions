@@ -798,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0368-largest-divisible-subset](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0390-elimination-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0909-stone-game) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0390-elimination-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [2050-count-good-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
