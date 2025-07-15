@@ -2,7 +2,6 @@ class Solution {
     public boolean isValid(String word) {
         boolean consonant = false;
         boolean vowel = false;
-        boolean digit = false;
         int cnt = 0;
 
         for(char ch : word.toCharArray()) {
