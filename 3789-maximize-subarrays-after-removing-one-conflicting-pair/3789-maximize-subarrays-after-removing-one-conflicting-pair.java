@@ -9,7 +9,7 @@ class Solution {
         }        
         long ans = 0;
         int[] left = {0, 0};
-        int[] bonus = new int[n+1];
+        long[] bonus = new long[n + 1];
         for (int r=0;r<=n;r++) {
             for (int l:right[r]) {
                 if (l > left[0]) {
@@ -25,7 +25,7 @@ class Solution {
             }
         }        
         long maxBonus = 0;
-        for (int b : bonus) {
+        for (long b : bonus) {
             maxBonus = Math.max(maxBonus, b);
         }       
         return ans + maxBonus;
