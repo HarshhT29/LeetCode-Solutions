@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2681-put-marbles-in-bags](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2698-find-the-array-concatenation-value](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2730-maximum-or](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2730-maximum-or) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
