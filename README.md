@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1835-decode-xored-permutation](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1835-decode-xored-permutation) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [0523-continuous-subarray-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0390-elimination-game) |
 | [2050-count-good-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
