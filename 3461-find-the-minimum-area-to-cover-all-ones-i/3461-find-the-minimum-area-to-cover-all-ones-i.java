@@ -1,8 +1,4 @@
-// class Solution {
-//     public int minimumArea(int[][] grid) {
-        
-//     }
-// }
+//EDItorial
 class Solution {
 
     public int minimumArea(int[][] grid) {
