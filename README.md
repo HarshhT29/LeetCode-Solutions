@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1806-count-of-matches-in-tournament](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
