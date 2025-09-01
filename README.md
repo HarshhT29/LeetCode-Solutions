@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1917-maximum-average-pass-ratio](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1917-maximum-average-pass-ratio](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2434-design-a-number-container-system](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
