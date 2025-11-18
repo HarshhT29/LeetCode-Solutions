@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
