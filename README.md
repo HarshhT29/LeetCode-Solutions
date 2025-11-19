@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
