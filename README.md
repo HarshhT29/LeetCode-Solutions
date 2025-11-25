@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0909-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
