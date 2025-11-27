@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-maximum-or](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
