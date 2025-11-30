@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1694-make-sum-divisible-by-p](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
