@@ -1,41 +1,58 @@
 class Solution {
     public List<Integer> findAllPeople(int n, int[][] meetings, int firstPerson) {
 
-        Map<Integer, List<int[]>> graph = new HashMap<>();
-        for (int[] meeting : meetings) {
-            int x = meeting[0], y = meeting[1], t = meeting[2];
-            graph.computeIfAbsent(x, k -> new ArrayList<>()).add(new int[]{t, y});
-            graph.computeIfAbsent(y, k -> new ArrayList<>()).add(new int[]{t, x});
+        // Build graph: person -> (neighbor, meeting time)
+        List<int[]>[] graph = new ArrayList[n];
+        for (int i = 0; i < n; i++) {
+            graph[i] = new ArrayList<>();
         }
 
-        int[] vis = new int[n];
-        Arrays.fill(vis, Integer.MAX_VALUE);
-        vis[0] = 0;
-        vis[firstPerson] = 0;
-        
-        Queue<int[]> q = new ArrayDeque<>();
-        q.offer(new int[]{0, 0});
-        q.offer(new int[]{firstPerson, 0});
+        for (int[] m : meetings) {
+            int u = m[0], v = m[1], t = m[2];
+            graph[u].add(new int[]{v, t});
+            graph[v].add(new int[]{u, t});
+        }
 
-        while (!q.isEmpty()) {
-            int[] personTime = q.poll();
-            int person = personTime[0];
-            int time = personTime[1];
+        // earliest[i] = earliest time person i knows the secret
+        int[] earliest = new int[n];
+        Arrays.fill(earliest, Integer.MAX_VALUE);
 
-            for (int[] nextPersonTime : graph.getOrDefault(person, new ArrayList<>())) {
-                int t = nextPersonTime[0];
-                int nextPerson = nextPersonTime[1];
-                
-                if (t >= time && vis[nextPerson] > t) {
-                    vis[nextPerson] = t;
-                    q.offer(new int[]{nextPerson, t});
+        // Min-heap ordered by time
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+            (a, b) -> a[0] - b[0]
+        );
+
+        // Initial secret holders
+        earliest[0] = 0;
+        earliest[firstPerson] = 0;
+        pq.offer(new int[]{0, 0});
+        pq.offer(new int[]{0, firstPerson});
+
+        // Dijkstra-style BFS
+        while (!pq.isEmpty()) {
+            int[] curr = pq.poll();
+            int time = curr[0];
+            int person = curr[1];
+
+            // Skip outdated entries
+            if (time > earliest[person]) continue;
+
+            for (int[] nei : graph[person]) {
+                int nextPerson = nei[0];
+                int meetTime = nei[1];
+
+                // Can share only if meeting happens after knowing the secret
+                if (meetTime >= time && meetTime < earliest[nextPerson]) {
+                    earliest[nextPerson] = meetTime;
+                    pq.offer(new int[]{meetTime, nextPerson});
                 }
             }
         }
-        
+
+        // Collect all people who know the secret
         List<Integer> ans = new ArrayList<>();
-        for (int i = 0; i < n; ++i) {
-            if (vis[i] != Integer.MAX_VALUE) {
+        for (int i = 0; i < n; i++) {
+            if (earliest[i] != Integer.MAX_VALUE) {
                 ans.add(i);
             }
         }
