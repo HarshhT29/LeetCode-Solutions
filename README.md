@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1503-reducing-dishes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
