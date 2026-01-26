@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1200-minimum-absolute-difference](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1200-minimum-absolute-difference](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
