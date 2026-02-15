@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1552-build-an-array-with-stack-operations](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/1642-water-bottles) |
@@ -1153,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/0326-power-of-three) |
