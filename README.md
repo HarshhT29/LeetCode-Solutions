@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2881-split-strings-by-separator](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HarshhT29/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
